@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">note_app</string>
-    <string name="welcome" />
-    <string name="note_heading">\n</string>
-    <string name="note_content">\n</string>
-    <string name="add" />
+    <string name="app_name">NoteApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
